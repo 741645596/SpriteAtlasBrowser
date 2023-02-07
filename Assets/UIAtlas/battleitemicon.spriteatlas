@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: battleitemicon
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 0
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 67b21c2ab36659f45822059cdc4790df, type: 3}
+    - {fileID: 21300000, guid: 4b1cd786c5ee178489de5c4e26a8947b, type: 3}
+    - {fileID: 21300000, guid: edd96fdb6dadf244eb76e390049ff835, type: 3}
+    - {fileID: 21300000, guid: 5e646a0a566e7a8418ef10a8427aab6f, type: 3}
+    - {fileID: 21300000, guid: 855690f68016bfc41b46dd0504a8e11e, type: 3}
+    - {fileID: 21300000, guid: bd287202be55b6949a4d2ba5d42dda6d, type: 3}
+    - {fileID: 21300000, guid: b7fa7f3cbfeaaab4389123cc85d39441, type: 3}
+    - {fileID: 21300000, guid: 361d5b95dc00c8345bb057c59ff4738f, type: 3}
+    - {fileID: 21300000, guid: 923c3b1ca5090a541b24d04b3fe0c6cd, type: 3}
+    - {fileID: 21300000, guid: 7a28fbb42f2639e42a7cb6aacab668b5, type: 3}
+    - {fileID: 21300000, guid: bdac31bc811d29f49bbf0efc047a3905, type: 3}
+    - {fileID: 21300000, guid: 1b753b3099060654ea9d018fdfe812c2, type: 3}
+    - {fileID: 21300000, guid: cfe06f6cfe9244c47995282d2e8d43d5, type: 3}
+    - {fileID: 21300000, guid: 703a6c07fe34cab4788e88ab4849c8ee, type: 3}
+    - {fileID: 21300000, guid: 41d6fe1378dfa6e449399aa66808ca48, type: 3}
+    - {fileID: 21300000, guid: 7935015125d3a794c953decec4f97874, type: 3}
+    - {fileID: 21300000, guid: 5a56f1301e29b694aba781546e3e7c73, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: battleitemicon
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
